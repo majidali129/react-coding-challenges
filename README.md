@@ -1,3 +1,17 @@
+# React-Coding-Challenges
+
+## Overview 
+This repo is all about challenges to practice react and it's echo system to rainforce the concepts. Here styling can be a bit off but main focus is functionality. Challenges can be from different soruces. 
+
+## Tech Stack
+As its a practice project. So we'll not use any heavy stack. We'll try to keep it simple as we can and point is to do everything via React itself by keep ourself totally inidependent from third pary library.
+
+- **Styling**: Tailwindcss
+- **React**: React 19 (Latest hooks)
+- **Type Safety**: TypeScript
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
