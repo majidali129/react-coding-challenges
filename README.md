@@ -6,9 +6,9 @@ This repo is all about challenges to practice react and it's echo system to rain
 ## Tech Stack
 As its a practice project. So we'll not use any heavy stack. We'll try to keep it simple as we can and point is to do everything via React itself by keep ourself totally inidependent from third pary library.
 
--- **Styling** - Tailwindcss
--- **React** - React19 ( Latest hooks )
--- **Type Safety** - TypeScript
+-- **Styling** - Tailwindcss.
+-- **React** - React19 ( Latest hooks ).
+-- **Type Safety** - TypeScript.
 
 
 
