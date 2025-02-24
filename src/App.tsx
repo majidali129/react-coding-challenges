@@ -1,9 +1,10 @@
-import PasswordStrengthChecker from "./challenges/50 React Coding Puzzles/password-strength-checker/PasswordStrengthChecker";
+import CountDownTimer from "./challenges/50 React Coding Puzzles/countdown-timer/CountDownTimer";
 
 const App = () => {
   return (
     <div className="bg-slate-950 h-screen overflow-y-hidden">
-      <PasswordStrengthChecker />
+      <CountDownTimer />
+      {/* <PasswordStrengthChecker /> */}
       {/* <ColorPicker /> */}
       {/* <TodoList /> */}
       {/* <Counter /> */}
