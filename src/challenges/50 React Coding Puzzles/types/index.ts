@@ -11,3 +11,10 @@ export enum PasswordStrength {
   "Very Strong" = "Very Strong",
   Excellent = "Excellent",
 }
+
+export interface IQuestion {
+  id: number;
+  question: string;
+  options: Array<string>;
+  correctOption: number;
+}
